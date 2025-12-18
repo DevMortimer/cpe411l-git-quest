@@ -17,3 +17,10 @@ LEVEL 3 COMPLETE: Output:
 ```
 
 LEVEL 4 COMPLETE: fixed the hallway sign
+
+LEVEL 5 COMPLETE: Output:
+``` text
+  main
+* student-ryan
+```
+
