@@ -24,3 +24,4 @@ LEVEL 5 COMPLETE: Output:
 * student-ryan
 ```
 
+LEVEL 6 CHEST CODE: FOX-7
