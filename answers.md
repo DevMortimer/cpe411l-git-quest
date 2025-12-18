@@ -32,3 +32,16 @@ LEVEL 7 COMPLETE: Output:
 ```
 
 LEVEL 8 PR LINK: https://github.com/janjan090/cpe411l-git-quest/pull/13
+
+LEVEL 9: Output of checkout to main:
+``` text
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+```
+Output of pull:
+``` text
+From github.com:DevMortimer/cpe411l-git-quest
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+```
+
