@@ -15,3 +15,5 @@ LEVEL 3 COMPLETE: Output:
 87804ee (origin/main, origin/HEAD, main) CLUE-3: SUNSET-19
 1d1fe6f Setup: Git Quest base files
 ```
+
+LEVEL 4 COMPLETE: fixed the hallway sign
