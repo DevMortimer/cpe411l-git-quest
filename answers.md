@@ -8,3 +8,10 @@ Your branch is up to date with 'origin/student-ryan'.
 nothing to commit, working tree clean
 ```
 
+LEVEL 3 COMPLETE: Output:
+``` text
+5317c9b (HEAD -> student-ryan, origin/student-ryan) Level 2
+34baec7 Level 1: created answers.md
+87804ee (origin/main, origin/HEAD, main) CLUE-3: SUNSET-19
+1d1fe6f Setup: Git Quest base files
+```
