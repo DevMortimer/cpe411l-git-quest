@@ -25,3 +25,8 @@ LEVEL 5 COMPLETE: Output:
 ```
 
 LEVEL 6 CHEST CODE: FOX-7
+
+LEVEL 7 COMPLETE: Output:
+``` text
+(there's no output to git diff since i literally just pushed and have not made any changes after)
+```
